@@ -7,6 +7,7 @@
 
 ## Semantic Web / Solid
 
+- [RDF in Solid](https://youtu.be/FEPabu0_3z0?si=EPEHOnakEb9s0dWs&t=966) (Talk, 20 minutes)
 - [From Zero to Hero with Solid](https://www.youtube.com/watch?v=kPzhykRVDuI) (Talk, 40 minutes)
 - [RDF Primer](https://www.w3.org/TR/rdf-primer/) (Article, 1 hour)
 
