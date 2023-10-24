@@ -44,7 +44,6 @@
 
 - [Visual design rules you can safely follow every time](https://anthonyhobday.com/sideprojects/saferules/) (Article, ~10 minutes)
 - [Refactoring UI](https://www.refactoringui.com/) (Book, 218 pages)
-- [CSS for JavaScript Developers](https://css-for-js.dev/) (Course, ~40 hours)
 - [Laws of UX](https://lawsofux.com/) (Website)
 - [Can't Unsee](https://cantunsee.space/) (Game)
 
@@ -53,3 +52,7 @@
 - [An Illustrated Guide to OAuth and OpenID Connect](https://www.youtube.com/watch?v=t18YB3xDfXI) (Video, 17 minutes)
 - [In The Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0) (Talk, 35 minutes)
 - [Seeking the Balance in Framework Design](https://www.youtube.com/watch?v=ANtSWq-zI0s) (Talk, 39 minutes)
+- [CSS for JavaScript Developers](https://css-for-js.dev/) (Course, ~40 hours)
+    - [What The Heck, z-index??](https://www.joshwcomeau.com/css/stacking-contexts/) (Article, 12 minutes)
+    - [Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/) (Article, 15 minutes)
+    - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) (Article, 23 minutes)
