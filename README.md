@@ -36,6 +36,8 @@
 - [The Sweet Spot](https://www.mrmoneymustache.com/2020/08/04/the-sweet-spot/) (Article, 12 minutes)
 - [Make Good Art](https://www.youtube.com/watch?v=plWexCID-kA) (Video, 20 minutes)
 - [The Art of Stress-Free Productivity](https://www.youtube.com/watch?v=CHxhjDPKfbY) (Talk, 22 minutes)
+- [The Subtle Art of Not Giving a Fuck](https://markmanson.net/books/subtle-art) (Book, 224 pages)
+    - [The Subtle Art of Not Giving a F*ck - Summarized by the Author](https://www.youtube.com/watch?v=lz8sUiXAnbs) (Video, 38 minutes)
 - [Musashi](https://en.wikipedia.org/wiki/Musashi_(novel)) (Book, 984 pages)
     - [Lessons Learned: Musashi by Eiji Yoshikawa](https://noeldemartin.com/blog/lessons-learned-musashi-by-eiji-yoshikawa) (Article, 11 minutes)
 - [Tao of Seneca](https://tim.blog/2017/07/06/tao-of-seneca/) (Book, 124 letters)
@@ -48,7 +50,7 @@
     - [Letter 93: On the Quality, as Contrasted with the Length, of Life](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_93) (Article, 8 minutes)
     - [Letter 96: On Facing Hardships](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_96) (Article, 3 minutes)
     - [Letter 101: On the Futility of Planning Ahead](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_101) (Article, 9 minutes)
-- [Derek Sivers](https://sive.rs/) (Blog)
+- [Derek Sivers](https://sive.rs/) (Blog, books)
 
 ## Semantic Web / Solid
 
