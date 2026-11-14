@@ -89,4 +89,7 @@
     - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) (Article, 23 minutes)
 
 ## Writing
+- [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f) (Article, 8min)
 - [On Writing Well](https://archive.org/details/onwritingwellcla00zins_4) (Book, 336 pages)
+- [Vue Docs Writing Guide](https://dev.vueframework.com/guide/contributing/writing-guide.html) (Website)
+- [Moodle's Product writing guidelines](https://moodledev.io/general/category/product-writing-guidelines) (Website)
